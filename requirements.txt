@@ -1,0 +1,10 @@
+matplotlib
+mysql_connector_repackaged
+numpy
+pandas
+scikit_learn
+seaborn
+plotly
+pickle
+sklearn
+PIL
