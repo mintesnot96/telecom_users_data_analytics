@@ -75,7 +75,7 @@
 ## Install
 
 ```
-git clone hhttps://github.com/benbel376/telecom_users_analytics.git
+git clone https://github.com/mintesnot96/telecom_users_data_analytics.git
 cd LIDAR_ETL
 pip install -r docs/requirements.txt
 ```
